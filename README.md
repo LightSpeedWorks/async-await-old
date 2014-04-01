@@ -1,7 +1,7 @@
 async-await
 ===========
 
-  **async-await** is ...
+  **async-await** is **aa**.
 
   [Japanese version/■日本語版はこちら■](README-JP.md#readme)
 

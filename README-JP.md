@@ -3,7 +3,7 @@ async-await
 
   [English version](README.md#readme)
 
-  **async-await** は...
+  **async-await** は **aa** です。
 
 インストレーション
 ------------------
