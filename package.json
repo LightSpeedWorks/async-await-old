@@ -4,7 +4,7 @@
   "description": "async await library depends on aa and co",
   "main": "async-await.js",
   "dependencies": {
-    "aa": ">=0.0.3"
+    "aa": ">=0.0.5"
   },
   "repository": {
     "type": "git",
