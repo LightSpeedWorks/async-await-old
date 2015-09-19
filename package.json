@@ -1,10 +1,10 @@
 {
   "name": "async-await",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "async await library depends on aa (co like)",
   "main": "async-await.js",
   "dependencies": {
-    "aa": ">=0.1.0"
+    "aa": ">=0.1.9"
   },
   "repository": {
     "type": "git",
