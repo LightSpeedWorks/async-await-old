@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LightSpeedWorks/async-await.git"
+    "url": "https://github.com/LightSpeedWorks/async-await-old.git"
   },
   "author": "LightSpeedC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LightSpeedWorks/async-await/issues"
+    "url": "https://github.com/LightSpeedWorks/async-await-old/issues"
   },
-  "homepage": "https://github.com/LightSpeedWorks/async-await#readme",
+  "homepage": "https://github.com/LightSpeedWorks/async-await-old#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
